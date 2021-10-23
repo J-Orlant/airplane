@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "933123089485",
+    "project_id": "airplane-fd942",
+    "storage_bucket": "airplane-fd942.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933123089485:android:9d69cbcac8d7b2a5702804",
+        "android_client_info": {
+          "package_name": "com.yogesvara.airplane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933123089485-b9fvlv8sr7s4euu4c2ka4f2nee8il6th.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP4jfHlH1R8gwV56owan0yHgAD4c2hZpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933123089485-b9fvlv8sr7s4euu4c2ka4f2nee8il6th.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
